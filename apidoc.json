@@ -1,0 +1,8 @@
+{
+  "name": "Test",
+  "version": "0.1.0",
+  "description": "Test basic example",
+  "title": "Test",
+  "url" : "http://localhost:3000",
+  "sampleUrl":"http://localhost:3000"
+}
